@@ -1,0 +1,10 @@
+h1 {
+  color: red;
+}
+footer, h5 {
+  color:white;
+  font-size: 18px;
+}
+.nav-link:hover {
+  background-color: aquamarine;
+}
