@@ -4,3 +4,6 @@
 .container-fluid{
     border: 2px solid green;
 }
+.row{
+    border: 2px solid pink;
+}
